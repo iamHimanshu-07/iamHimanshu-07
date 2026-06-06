@@ -49,7 +49,7 @@
 
 ## 🔥 Featured Projects
 
-### ❤️ AI Health Disease Prediction System
+### ❤️ Cardio.AI - AI Heartcare Assistant
 
 An intelligent healthcare prediction platform that uses Machine Learning algorithms to predict heart disease risk based on medical parameters.
 
