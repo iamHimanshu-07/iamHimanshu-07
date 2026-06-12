@@ -63,6 +63,7 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 
 <div align="center">
 
+![Statistics](https://github-readme-stats.vercel.app/api?username=iamHimanshu-07&show_icons=true&theme=tokyonight)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHimanshu-07&layout=compact&theme=radical&hide_border=true)](https://github.com/iamHimanshu-07)
 
