@@ -67,7 +67,7 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHimanshu-07&layout=compact&theme=radical&hide_border=true)](https://github.com/iamHimanshu-07)
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamHimanshu-07&color=blueviolet)
+[![Profile Views](https://komarev.com/ghpvc/?username=iamHimanshu-07&color=blueviolet)](https://github.com/iamHimanshu-07)
 
 </div>
 
@@ -78,9 +78,8 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itshimanshu666@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-singh-yadav-57144a2b7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-website-brown-three.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/himanshu-singh-yadav-57144a2b7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-website-brown-three.vercel.app/)
 
 **📱 Whatsapp**: <a href="tel:+916386220865">+91 63862 20865</a>
 
