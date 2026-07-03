@@ -10,6 +10,19 @@ Welcome to my GitHub! I'm passionate about building intelligent systems, craftin
 ## 🎯 About Me
 
 ```
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - NLP
+  - Cloud Computing
+
+Currently Working On:
+  - Production Ready AI Applications
+  - LLM Powered Systems
+  - End-to-End ML Pipelines
+
 🔭 Building: End-to-end ML pipelines, GenAI-powered applications & full-stack solutions
 🎓 Learning: Advanced AI/ML techniques, Cloud architecture, and emerging GenAI trends
 💡 Focused: Creating intelligent systems that make a real-world impact
@@ -56,6 +69,103 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 ### 🤖 GenAI & LLMs
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8F7EE7?style=flat-square&logo=google&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-00A4EF?style=flat-square&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🎙️ VoiceFlow
+**AI-Powered Speech Recognition & Voice Assistant**
+
+VoiceFlow is an intelligent voice assistant that enables users to interact with applications through natural speech. It combines speech recognition, text-to-speech, and natural language processing to provide a seamless voice-controlled experience.
+
+**Key Features**
+- 🎤 Speech-to-Text
+- 🔊 Text-to-Speech
+- 🗣️ Voice Commands
+- 🧠 Natural Language Processing
+- ⚡ Smart Automation
+
+**Tech Stack:** Python • JavaScript • HTML • CSS • Web Speech API
+
+🔗 **Repository:**  
+https://github.com/iamHimanshu-07/VoiceFlow
+
+---
+
+## ❤️ Cardio.AI
+**Heart Disease Prediction using Machine Learning**
+
+Cardio.AI is a machine learning-powered healthcare application that predicts the likelihood of heart disease based on patient medical parameters. It provides quick predictions through an intuitive web interface.
+
+**Key Features**
+- ❤️ Heart Disease Prediction
+- 📊 Medical Data Analysis
+- 📈 Interactive Dashboard
+- 🤖 Machine Learning Model
+- 🌐 Flask Web Application
+
+**Tech Stack:** Python • Flask • Scikit-Learn • Pandas • NumPy • HTML • CSS
+
+🔗 **Repository:**  
+https://github.com/iamHimanshu-07/Cardio.AI
+
+---
+
+## 🧠 MindPulse.AI
+**AI-Powered Mental Health Analyzer**
+
+MindPulse.AI is an AI-powered platform that analyzes user emotions and mental well-being using machine learning and Google Gemini AI, offering personalized insights in a modern web application.
+
+**Key Features**
+- 😊 Emotion Analysis
+- 🧠 Mental Health Assessment
+- ✨ Gemini AI Integration
+- 📊 Interactive Dashboard
+- 💬 AI-Based Recommendations
+
+**Tech Stack:** Python • Flask • Gemini AI • Machine Learning • HTML • CSS • JavaScript
+
+🔗 **Repository:**  
+https://github.com/iamHimanshu-07/MindPulse.AI
+
+---
+
+## 🗑️ SmartBin
+**AIoT Smart Dustbin**
+
+SmartBin is an AIoT project that automates waste disposal using Arduino, ultrasonic sensors, and servo motors. It demonstrates the practical implementation of IoT and embedded systems.
+
+**Key Features**
+- 📏 Ultrasonic Distance Detection
+- ⚙️ Automatic Lid Opening
+- 🔄 Servo Motor Control
+- 🌐 IoT Integration
+- ♻️ Smart Waste Management
+
+**Tech Stack:** Arduino • C++ • IoT • Embedded Systems • Sensors
+
+🔗 **Repository:**  
+https://github.com/iamHimanshu-07/SmartBin
+
+---
+
+## CryptoCast
+**AI-Powered Cryptocurrency Analytics Platform**
+
+CryptoCast is a cryptocurrency analytics platform that provides market insights, visualizations, and AI-driven predictions to help users understand crypto market trends.
+
+**Key Features**
+- 💹 Cryptocurrency Analytics
+- 📊 Interactive Charts
+- 🤖 AI-Based Prediction
+- 📈 Market Trend Analysis
+- 🌍 User-Friendly Dashboard
+
+**Tech Stack:** Python • Flask • Machine Learning • HTML • CSS • JavaScript
+
+🔗 **Repository:**  
+https://github.com/iamHimanshu-07/CryptoCast
 
 ---
 
