@@ -88,8 +88,7 @@ VoiceFlow is an intelligent voice assistant that enables users to interact with 
 
 **Tech Stack:** Python • JavaScript • HTML • CSS • Web Speech API
 
-🔗 **Repository:**  
-https://github.com/iamHimanshu-07/VoiceFlow
+[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/VoiceFlow)
 
 ---
 
@@ -107,8 +106,7 @@ Cardio.AI is a machine learning-powered healthcare application that predicts the
 
 **Tech Stack:** Python • Flask • Scikit-Learn • Pandas • NumPy • HTML • CSS
 
-🔗 **Repository:**  
-https://github.com/iamHimanshu-07/Cardio.AI
+[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/Cardio.AI)
 
 ---
 
@@ -126,8 +124,7 @@ MindPulse.AI is an AI-powered platform that analyzes user emotions and mental we
 
 **Tech Stack:** Python • Flask • Gemini AI • Machine Learning • HTML • CSS • JavaScript
 
-🔗 **Repository:**  
-https://github.com/iamHimanshu-07/MindPulse.AI
+[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/MindPulse.AI)
 
 ---
 
@@ -145,8 +142,7 @@ SmartBin is an AIoT project that automates waste disposal using Arduino, ultraso
 
 **Tech Stack:** Arduino • C++ • IoT • Embedded Systems • Sensors
 
-🔗 **Repository:**  
-https://github.com/iamHimanshu-07/SmartBin
+[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/SmartBin)
 
 ---
 
@@ -164,8 +160,7 @@ CryptoCast is a cryptocurrency analytics platform that provides market insights,
 
 **Tech Stack:** Python • Flask • Machine Learning • HTML • CSS • JavaScript
 
-🔗 **Repository:**  
-https://github.com/iamHimanshu-07/CryptoCast
+[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/CryptoCast)
 
 ---
 
@@ -173,9 +168,13 @@ https://github.com/iamHimanshu-07/CryptoCast
 
 <div align="center">
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=iamHimanshu-07&show_icons=true&theme=tokyonight)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHimanshu-07&layout=compact&theme=radical&hide_border=true)](https://github.com/iamHimanshu-07)
+![](https://github-readme-stats.vercel.app/api?username=iamHimanshu-07&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamHimanshu-07&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHimanshu-07&layout=compact&theme=tokyonight&hide_border=true)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=iamHimanshu-07&color=blueviolet)](https://github.com/iamHimanshu-07)
 
@@ -189,6 +188,7 @@ https://github.com/iamHimanshu-07/CryptoCast
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itshimanshu666@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/himanshu-singh-yadav-57144a2b7)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamhimanshu2312)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-website-brown-three.vercel.app/)
 
 **📱 Whatsapp**: <a href="tel:+916386220865">+91 63862 20865</a>
