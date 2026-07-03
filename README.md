@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Hi%20👋,%20I'm%20Himanshu%20Singh%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Cloud+Computing+Learner;Building+Smart+Solutions+with+AIoT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Cloud+Computing+Learner;Building+Smart+Solutions+with+AI" />
 </p>
 
 Welcome to my GitHub! I'm passionate about building intelligent systems, crafting scalable applications, and leveraging cutting-edge AI/ML technologies to solve real-world problems. Currently pursuing my B.Tech in Artificial Intelligence & Machine Learning.
@@ -75,7 +75,7 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 # 🚀 Featured Projects
 
 ## 🎙️ VoiceFlow
-**AI-Powered Speech Recognition & Voice Assistant**
+**Speech Recognition Application & Voice Assistant**
 
 VoiceFlow is an intelligent voice assistant that enables users to interact with applications through natural speech. It combines speech recognition, text-to-speech, and natural language processing to provide a seamless voice-controlled experience.
 
