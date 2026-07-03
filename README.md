@@ -146,7 +146,7 @@ SmartBin is an AIoT project that automates waste disposal using Arduino, ultraso
 
 ---
 
-## CryptoCast
+## CryptoCast (Under Production)
 **AI-Powered Cryptocurrency Analytics Platform**
 
 CryptoCast is a cryptocurrency analytics platform that provides market insights, visualizations, and AI-driven predictions to help users understand crypto market trends.
