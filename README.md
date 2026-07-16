@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Hi%20👋,%20I'm%20Himanshu%20Singh%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Building+Intelligent+Systems;Generative+AI+%26+LLM+Applications;Open+to+Internships+%26+Collaborations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Building+Intelligent+Systems;Generative+AI+%26Wev+Applications;Open+to+Internships/Jobs+%26+Collaborations" />
 </p>
 
 Welcome to my GitHub! I'm passionate about building intelligent systems, crafting scalable applications, and leveraging cutting-edge AI/ML technologies to solve real-world problems. Currently pursuing my B.Tech in Artificial Intelligence & Machine Learning.
@@ -30,12 +30,6 @@ Currently Working On:
 ```
 
 I believe in writing clean, maintainable code and bridging the gap between cutting-edge ML research and practical applications. With hands-on experience in machine learning projects, backend development, and AI integration, I'm constantly pushing the boundaries of what's possible with technology.
-
-### ⚡ Currently Building
-
-- 🌐 **Portfolio Website** — modern Next.js 16 + React 19 + Tailwind 4 site, live on Vercel
-- 🤖 **End-to-end ML pipelines** — productionizing research models
-- 🧠 **LLM-powered applications** — practical GenAI integrations with Gemini
 
 ---
 
@@ -157,24 +151,6 @@ MindPulse.AI is an AI-powered platform that analyzes user emotions and mental we
 
 ---
 
-## 🗑️ SmartBin
-**AIoT Smart Dustbin**
-
-SmartBin is an AIoT project that automates waste disposal using Arduino, ultrasonic sensors, and servo motors. It demonstrates the practical implementation of IoT and embedded systems.
-
-**Key Features**
-- 📏 Ultrasonic Distance Detection
-- ⚙️ Automatic Lid Opening
-- 🔄 Servo Motor Control
-- 🌐 IoT Integration
-- ♻️ Smart Waste Management
-
-**Tech Stack:** Arduino • C++ • IoT • Embedded Systems • Sensors
-
-[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/SmartBin)
-
----
-
 ## 🚚 TransitOps
 **Smart Transport Operations Platform**
 
@@ -209,6 +185,24 @@ CryptoCast is a cryptocurrency analytics platform that provides market insights,
 **Tech Stack:** Python • Flask • Machine Learning • HTML • CSS • JavaScript
 
 [![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/CryptoCast)
+
+---
+
+## 🗑️ SmartBin
+**AIoT Smart Dustbin**
+
+SmartBin is an AIoT project that automates waste disposal using Arduino, ultrasonic sensors, and servo motors. It demonstrates the practical implementation of IoT and embedded systems.
+
+**Key Features**
+- 📏 Ultrasonic Distance Detection
+- ⚙️ Automatic Lid Opening
+- 🔄 Servo Motor Control
+- 🌐 IoT Integration
+- ♻️ Smart Waste Management
+
+**Tech Stack:** Arduino • C++ • IoT • Embedded Systems • Sensors
+
+[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/SmartBin)
 
 ---
 
