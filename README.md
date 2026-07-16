@@ -114,6 +114,7 @@ VoiceFlow is an intelligent voice assistant that enables users to interact with 
 
 **Tech Stack:** Python • JavaScript • HTML • CSS • Web Speech API
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://speech-recognition-web-rho.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/VoiceFlow)
 
 ---
@@ -132,6 +133,7 @@ Cardio.AI is a machine learning-powered healthcare application that predicts the
 
 **Tech Stack:** Python • Flask • Scikit-Learn • Pandas • NumPy • HTML • CSS
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://cardio-ai-j1pa.onrender.com/)
 [![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/Cardio.AI)
 
 ---
@@ -150,6 +152,7 @@ MindPulse.AI is an AI-powered platform that analyzes user emotions and mental we
 
 **Tech Stack:** Python • Flask • Gemini AI • Machine Learning • HTML • CSS • JavaScript
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://mindpulseai.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/MindPulse.AI)
 
 ---
@@ -169,6 +172,25 @@ SmartBin is an AIoT project that automates waste disposal using Arduino, ultraso
 **Tech Stack:** Arduino • C++ • IoT • Embedded Systems • Sensors
 
 [![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/SmartBin)
+
+---
+
+## 🚚 TransitOps
+**Smart Transport Operations Platform**
+
+TransitOps is a single-binary-grade web app for small transport businesses. Gives a fleet operations team the same workflows a 200-truck carrier would expect — dispatch, maintenance, fuel, expenses, ROI — without any SaaS lock-in or monthly bill. One Node.js process + one SQLite file, no Docker or build step required.
+
+**Key Features**
+- 🛠️ Fleet management & dispatch
+- 🚗 Driver and trip tracking
+- ⛽ Fuel & maintenance logging
+- 💰 Expenses & ROI analytics
+- 📊 Live operations dashboard
+- 🧪 30+ automated tests passing
+
+**Tech Stack:** Node.js • Express • SQLite • Vanilla HTML/CSS/JS
+
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/TransitOps-Smart-Transport-Operations-Platform)
 
 ---
 
