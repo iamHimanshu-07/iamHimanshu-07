@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Hi%20👋,%20I'm%20Himanshu%20Singh%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Cloud+Computing+Learner;Building+Smart+Solutions+with+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Building+Intelligent+Systems;Generative+AI+%26+LLM+Applications;Open+to+Internships+%26+Collaborations" />
 </p>
 
 Welcome to my GitHub! I'm passionate about building intelligent systems, crafting scalable applications, and leveraging cutting-edge AI/ML technologies to solve real-world problems. Currently pursuing my B.Tech in Artificial Intelligence & Machine Learning.
@@ -30,6 +30,12 @@ Currently Working On:
 ```
 
 I believe in writing clean, maintainable code and bridging the gap between cutting-edge ML research and practical applications. With hands-on experience in machine learning projects, backend development, and AI integration, I'm constantly pushing the boundaries of what's possible with technology.
+
+### ⚡ Currently Building
+
+- 🌐 **Portfolio Website** — modern Next.js 16 + React 19 + Tailwind 4 site, live on Vercel
+- 🤖 **End-to-end ML pipelines** — productionizing research models
+- 🧠 **LLM-powered applications** — practical GenAI integrations with Gemini
 
 ---
 
@@ -73,6 +79,26 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 ---
 
 # 🚀 Featured Projects
+
+## 🌐 Portfolio Website
+**Personal Portfolio & AI/ML Showcase**
+
+My latest project — a modern, fully-responsive personal portfolio website built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, and shadcn/ui. Showcases my AI/ML projects, technical skills, certifications, achievements, and professional journey.
+
+**Key Features**
+- ⚡ Next.js 16 App Router with React Server Components
+- 🎨 Modern dark-themed UI with smooth animations
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 📬 Working contact form with Formspree
+- 🌓 Light/dark mode via next-themes
+- 🚀 Auto-deployed on Vercel
+
+**Tech Stack:** Next.js 16 • React 19 • TypeScript • Tailwind CSS 4 • shadcn/ui • Vercel
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-personal-portfolio.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/Portfolio-Website)
+
+---
 
 ## 🎙️ VoiceFlow
 **Speech Recognition Application & Voice Assistant**
@@ -190,6 +216,7 @@ CryptoCast is a cryptocurrency analytics platform that provides market insights,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/himanshu-singh-yadav-57144a2b7)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamhimanshu2312)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-personal-portfolio.vercel.app/)
+[![is-a.dev](https://img.shields.io/badge/himanshu7.is-a.dev-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshu7.is-a.dev)
 
 **📱 Whatsapp**: <a href="tel:+916386220865">+91 63862 20865</a>
 
