@@ -72,28 +72,6 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 
 ---
 
-# 🚀 Featured Projects
-
-## 🌐 Portfolio Website
-**Personal Portfolio & AI/ML Showcase**
-
-My latest project — a modern, fully-responsive personal portfolio website built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, and shadcn/ui. Showcases my AI/ML projects, technical skills, certifications, achievements, and professional journey.
-
-**Key Features**
-- ⚡ Next.js 16 App Router with React Server Components
-- 🎨 Modern dark-themed UI with smooth animations
-- 📱 Fully responsive (mobile, tablet, desktop)
-- 📬 Working contact form with Formspree
-- 🌓 Light/dark mode via next-themes
-- 🚀 Auto-deployed on Vercel
-
-**Tech Stack:** Next.js 16 • React 19 • TypeScript • Tailwind CSS 4 • shadcn/ui • Vercel
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-personal-portfolio.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/Portfolio-Website)
-
----
-
 ## 🎙️ VoiceFlow
 **Speech Recognition Application & Voice Assistant**
 
@@ -170,6 +148,28 @@ TransitOps is a single-binary-grade web app for small transport businesses. Give
 
 ---
 
+# 🚀 Featured Projects
+
+## 🌐 Portfolio Website
+**Personal Portfolio**
+
+A modern, fully-responsive personal portfolio website built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, and shadcn/ui. Showcases my AI/ML projects, technical skills, certifications, achievements, and professional journey.
+
+**Key Features**
+- ⚡ Next.js 16 App Router with React Server Components
+- 🎨 Modern dark-themed UI with smooth animations
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 📬 Working contact form with Formspree
+- 🌓 Light/dark mode via next-themes
+- 🚀 Auto-deployed on Vercel
+
+**Tech Stack:** Next.js 16 • React 19 • TypeScript • Tailwind CSS 4 • shadcn/ui • Vercel
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-personal-portfolio.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/Portfolio-Website)
+
+---
+
 ## CryptoCast (Under Production)
 **AI-Powered Cryptocurrency Analytics Platform**
 
@@ -185,24 +185,6 @@ CryptoCast is a cryptocurrency analytics platform that provides market insights,
 **Tech Stack:** Python • Flask • Machine Learning • HTML • CSS • JavaScript
 
 [![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/CryptoCast)
-
----
-
-## 🗑️ SmartBin
-**AIoT Smart Dustbin**
-
-SmartBin is an AIoT project that automates waste disposal using Arduino, ultrasonic sensors, and servo motors. It demonstrates the practical implementation of IoT and embedded systems.
-
-**Key Features**
-- 📏 Ultrasonic Distance Detection
-- ⚙️ Automatic Lid Opening
-- 🔄 Servo Motor Control
-- 🌐 IoT Integration
-- ♻️ Smart Waste Management
-
-**Tech Stack:** Arduino • C++ • IoT • Embedded Systems • Sensors
-
-[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/SmartBin)
 
 ---
 
