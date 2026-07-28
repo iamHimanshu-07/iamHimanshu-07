@@ -15,13 +15,7 @@ Interests:
   - Machine Learning
   - Deep Learning
   - Generative AI
-  - NLP
   - Cloud Computing
-
-Currently Working On:
-  - Production Ready AI Applications
-  - LLM Powered Systems
-  - End-to-End ML Pipelines
 
 🔭 Building: End-to-end ML pipelines, GenAI-powered applications & full-stack solutions
 🎓 Learning: Advanced AI/ML techniques, Cloud architecture, and emerging GenAI trends
@@ -72,7 +66,7 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 🎙️ VoiceFlow
 **Speech Recognition Application & Voice Assistant**
