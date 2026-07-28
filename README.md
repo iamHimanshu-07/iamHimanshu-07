@@ -72,19 +72,12 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 
 ---
 
+# 🚀 Featured Projects
+
 ## 🎙️ VoiceFlow
 **Speech Recognition Application & Voice Assistant**
 
 VoiceFlow is an intelligent voice assistant that enables users to interact with applications through natural speech. It combines speech recognition, text-to-speech, and natural language processing to provide a seamless voice-controlled experience.
-
-**Key Features**
-- 🎤 Speech-to-Text
-- 🔊 Text-to-Speech
-- 🗣️ Voice Commands
-- 🧠 Natural Language Processing
-- ⚡ Smart Automation
-
-**Tech Stack:** Python • JavaScript • HTML • CSS • Web Speech API
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://speech-recognition-web-rho.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/VoiceFlow)
@@ -96,15 +89,6 @@ VoiceFlow is an intelligent voice assistant that enables users to interact with 
 
 Cardio.AI is a machine learning-powered healthcare application that predicts the likelihood of heart disease based on patient medical parameters. It provides quick predictions through an intuitive web interface.
 
-**Key Features**
-- ❤️ Heart Disease Prediction
-- 📊 Medical Data Analysis
-- 📈 Interactive Dashboard
-- 🤖 Machine Learning Model
-- 🌐 Flask Web Application
-
-**Tech Stack:** Python • Flask • Scikit-Learn • Pandas • NumPy • HTML • CSS
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://cardio-ai-j1pa.onrender.com/)
 [![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/Cardio.AI)
 
@@ -114,15 +98,6 @@ Cardio.AI is a machine learning-powered healthcare application that predicts the
 **AI-Powered Mental Health Analyzer**
 
 MindPulse.AI is an AI-powered platform that analyzes user emotions and mental well-being using machine learning and Google Gemini AI, offering personalized insights in a modern web application.
-
-**Key Features**
-- 😊 Emotion Analysis
-- 🧠 Mental Health Assessment
-- ✨ Gemini AI Integration
-- 📊 Interactive Dashboard
-- 💬 AI-Based Recommendations
-
-**Tech Stack:** Python • Flask • Gemini AI • Machine Learning • HTML • CSS • JavaScript
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://mindpulseai.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/MindPulse.AI)
@@ -134,57 +109,18 @@ MindPulse.AI is an AI-powered platform that analyzes user emotions and mental we
 
 TransitOps is a single-binary-grade web app for small transport businesses. Gives a fleet operations team the same workflows a 200-truck carrier would expect — dispatch, maintenance, fuel, expenses, ROI — without any SaaS lock-in or monthly bill. One Node.js process + one SQLite file, no Docker or build step required.
 
-**Key Features**
-- 🛠️ Fleet management & dispatch
-- 🚗 Driver and trip tracking
-- ⛽ Fuel & maintenance logging
-- 💰 Expenses & ROI analytics
-- 📊 Live operations dashboard
-- 🧪 30+ automated tests passing
-
-**Tech Stack:** Node.js • Express • SQLite • Vanilla HTML/CSS/JS
-
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/TransitOps-Smart-Transport-Operations-Platform)
 
 ---
 
-# 🚀 Featured Projects
 
 ## 🌐 Portfolio Website
 **Personal Portfolio**
 
 A modern, fully-responsive personal portfolio website built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, and shadcn/ui. Showcases my AI/ML projects, technical skills, certifications, achievements, and professional journey.
 
-**Key Features**
-- ⚡ Next.js 16 App Router with React Server Components
-- 🎨 Modern dark-themed UI with smooth animations
-- 📱 Fully responsive (mobile, tablet, desktop)
-- 📬 Working contact form with Formspree
-- 🌓 Light/dark mode via next-themes
-- 🚀 Auto-deployed on Vercel
-
-**Tech Stack:** Next.js 16 • React 19 • TypeScript • Tailwind CSS 4 • shadcn/ui • Vercel
-
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-personal-portfolio.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/Portfolio-Website)
-
----
-
-## CryptoCast (Under Production)
-**AI-Powered Cryptocurrency Analytics Platform**
-
-CryptoCast is a cryptocurrency analytics platform that provides market insights, visualizations, and AI-driven predictions to help users understand crypto market trends.
-
-**Key Features**
-- 💹 Cryptocurrency Analytics
-- 📊 Interactive Charts
-- 🤖 AI-Based Prediction
-- 📈 Market Trend Analysis
-- 🌍 User-Friendly Dashboard
-
-**Tech Stack:** Python • Flask • Machine Learning • HTML • CSS • JavaScript
-
-[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/CryptoCast)
 
 ---
 
