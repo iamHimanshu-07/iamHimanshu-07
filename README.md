@@ -68,53 +68,39 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 
 # 🚀 Projects
 
-## 🎙️ VoiceFlow
-**Speech Recognition Application & Voice Assistant**
-
-VoiceFlow is an intelligent voice assistant that enables users to interact with applications through natural speech. It combines speech recognition, text-to-speech, and natural language processing to provide a seamless voice-controlled experience.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://speech-recognition-web-rho.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/VoiceFlow)
-
----
-
-## ❤️ Cardio.AI
-**Heart Disease Prediction using Machine Learning**
-
-Cardio.AI is a machine learning-powered healthcare application that predicts the likelihood of heart disease based on patient medical parameters. It provides quick predictions through an intuitive web interface.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://cardio-ai-j1pa.onrender.com/)
-[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/Cardio.AI)
-
----
-
 ## 🧠 MindPulse.AI
-**AI-Powered Mental Health Analyzer**
+**AI-Powered Mental Health & Well-being Analyzer**
 
 MindPulse.AI is an AI-powered platform that analyzes user emotions and mental well-being using machine learning and Google Gemini AI, offering personalized insights in a modern web application.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://mindpulseai.streamlit.app/)
-[![GitHub Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/MindPulse.AI)
+---
+
+## ❤️ CorAI
+**Predictive Heart Healthcare System
+
+CorAI is a machine learning-powered healthcare application that predicts the likelihood of heart disease based on patient medical parameters. It provides quick predictions through an intuitive web interface.
+
+---
+
+## 🎙️ VoiceFlow
+**Intelligent Speech Recognition & Voice Assistant**
+
+VoiceFlow is an intelligent voice assistant that enables users to interact with applications through natural speech. It combines speech recognition, text-to-speech, and natural language processing to provide a seamless voice-controlled experience.
 
 ---
 
 ## 🚚 TransitOps
-**Smart Transport Operations Platform**
+**Zero-Dependency Fleet Operations Platform**
 
 TransitOps is a single-binary-grade web app for small transport businesses. Gives a fleet operations team the same workflows a 200-truck carrier would expect — dispatch, maintenance, fuel, expenses, ROI — without any SaaS lock-in or monthly bill. One Node.js process + one SQLite file, no Docker or build step required.
-
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/TransitOps-Smart-Transport-Operations-Platform)
 
 ---
 
 
 ## 🌐 Portfolio Website
-**Personal Portfolio**
+**Personal/Developer Portfolio**
 
 A modern, fully-responsive personal portfolio website built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, and shadcn/ui. Showcases my AI/ML projects, technical skills, certifications, achievements, and professional journey.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-personal-portfolio.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamHimanshu-07/Portfolio-Website)
 
 ---
 
