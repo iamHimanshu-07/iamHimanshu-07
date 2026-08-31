@@ -76,7 +76,7 @@ MindPulse.AI is an AI-powered platform that analyzes user emotions and mental we
 ---
 
 ## ❤️ CorAI
-**Predictive Heart Healthcare System
+**Predictive Heart Healthcare System**
 
 CorAI is a machine learning-powered healthcare application that predicts the likelihood of heart disease based on patient medical parameters. It provides quick predictions through an intuitive web interface.
 
