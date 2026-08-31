@@ -82,7 +82,7 @@ CorAI is a machine learning-powered healthcare application that predicts the lik
 
 ---
 
-## 🚚 TransitOps
+## 🚚 Vaelos
 **Zero-Dependency Fleet Operations Platform**
 
 TransitOps is a single-binary-grade web app for small transport businesses. Gives a fleet operations team the same workflows a 200-truck carrier would expect — dispatch, maintenance, fuel, expenses, ROI — without any SaaS lock-in or monthly bill. One Node.js process + one SQLite file, no Docker or build step required.
