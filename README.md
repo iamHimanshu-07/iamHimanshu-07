@@ -68,6 +68,13 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 
 # 🚀 Projects
 
+## 🚚 Vaelos
+**Zero-Dependency Fleet Operations Platform**
+
+TransitOps is a single-binary-grade web app for small transport businesses. Gives a fleet operations team the same workflows a 200-truck carrier would expect — dispatch, maintenance, fuel, expenses, ROI — without any SaaS lock-in or monthly bill. One Node.js process + one SQLite file, no Docker or build step required.
+
+---
+
 ## 🧠 MindPulse
 **AI-Powered Mental Health & Well-being Analyzer**
 
@@ -82,24 +89,10 @@ CorAI is a machine learning-powered healthcare application that predicts the lik
 
 ---
 
-## 🚚 Vaelos
-**Zero-Dependency Fleet Operations Platform**
-
-TransitOps is a single-binary-grade web app for small transport businesses. Gives a fleet operations team the same workflows a 200-truck carrier would expect — dispatch, maintenance, fuel, expenses, ROI — without any SaaS lock-in or monthly bill. One Node.js process + one SQLite file, no Docker or build step required.
-
----
-
 ## 🎙️ VoiceFlow
 **Intelligent Speech Recognition & Voice Assistant**
 
 VoiceFlow is an intelligent voice assistant that enables users to interact with applications through natural speech. It combines speech recognition, text-to-speech, and natural language processing to provide a seamless voice-controlled experience.
-
----
-
-## 🌐 Portfolio Website
-**Personal/Developer Portfolio**
-
-A modern, fully-responsive personal portfolio website built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, and shadcn/ui. Showcases my AI/ML projects, technical skills, certifications, achievements, and professional journey.
 
 ---
 
