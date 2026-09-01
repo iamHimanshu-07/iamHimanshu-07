@@ -75,17 +75,17 @@ TransitOps is a single-binary-grade web app for small transport businesses. Give
 
 ---
 
-## 🧠 MindPulse
-**AI-Powered Mental Health & Well-being Analyzer**
-
-MindPulse.AI is an AI-powered platform that analyzes user emotions and mental well-being using machine learning and Google Gemini AI, offering personalized insights in a modern web application.
-
----
-
 ## ❤️ CorAI
 **Predictive Heart Healthcare System**
 
 CorAI is a machine learning-powered healthcare application that predicts the likelihood of heart disease based on patient medical parameters. It provides quick predictions through an intuitive web interface.
+
+---
+
+## 🧠 MindPulse
+**AI-Powered Mental Health & Well-being Analyzer**
+
+MindPulse.AI is an AI-powered platform that analyzes user emotions and mental well-being using machine learning and Google Gemini AI, offering personalized insights in a modern web application.
 
 ---
 
