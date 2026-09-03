@@ -120,7 +120,7 @@ VoiceFlow is an intelligent voice assistant that enables users to interact with 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itshimanshu666@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/himanshu-singh-yadav-57144a2b7)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamhimanshu2312)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-personal-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshusinghyadav.vercel.app/)
 
 **📱 Whatsapp**: <a href="tel:+916386220865">+91 63862 20865</a>
 
