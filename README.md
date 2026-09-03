@@ -81,6 +81,13 @@ CorAI is a machine learning-powered healthcare application that predicts the lik
 
 ---
 
+## ◬ Yugen
+**Institutional-Grade Crypto Market Intelligence Dashboard**
+
+Yugen is a privacy-first, zero-account cryptocurrency intelligence dashboard delivering real-time price, supply dynamics, and high-signal market metrics across 21 curated digital assets. Designed for clarity over market noise, it surfaces deep liquidity indicators and institutional-grade analytics in a clean, accessible interface.
+
+---
+
 ## 🧠 MindPulse
 **AI-Powered Mental Health & Well-being Analyzer**
 
