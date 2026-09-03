@@ -15,7 +15,6 @@ Interests:
   - Machine Learning
   - Deep Learning
   - Generative AI
-  - Cloud Computing
 
 🔭 Building: End-to-end ML pipelines, GenAI-powered applications & full-stack solutions
 🎓 Learning: Advanced AI/ML techniques, Cloud architecture, and emerging GenAI trends
